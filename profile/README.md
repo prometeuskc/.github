@@ -25,6 +25,6 @@ We value collaboration and are always open to new opportunities. Feel free to re
 
 ## Licensing
 
-Our software is released under the [MIT License](LICENSE), granting you the freedom to use, modify, and distribute it.
+This software is released under the Prometeus KC License. See the [LICENSE](LICENSE) file for details.
 
 Thank you for considering Prometeus KC Software Solutions. We look forward to being part of your journey toward technological excellence!
